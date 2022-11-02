@@ -35,11 +35,11 @@ When we came there, he was sitting in a chair
 // Что-то происходило в прошлом, пока что-то не случилось
 He was sleeping, before the phone rang
 
-	                   |--- PRESENT PERFECT --->|
+	                   |--- PRESENT PERFECT --->|- - - - - ->
 // Что-то только что закончилось
-// Что-то началось и результат важен сейчас 
+// Что-то случилось (может продолжаться) и результат важен сейчас 
 
-					   |---- PRESENT PERFECT CONTINUOUS ---->|
+					   |---- PRESENT PERFECT CONTINUOUS ---->
 // Что-то началось в прошлом и продолжается
 ```
 
@@ -48,7 +48,7 @@ He was sleeping, before the phone rang
 ```
 Past (Unspecified)       Yesterday             Now         Future (Unspecified)
 
--------------- PRESENT PERFECT ---------------->|
+-------------- PRESENT PERFECT ---------------->|- - - - - ->|
 
 // Это только что закончилось
 I've done it (right now)
