@@ -37,6 +37,7 @@ He was sleeping, before the phone rang
 
 	                   |--- PRESENT PERFECT --->|
 // Что-то только что закончилось
+// Что-то началось и результат сохраняется сейчас 
 
 					   |---- PRESENT PERFECT CONTINUOUS ---->|
 // Что-то началось в прошлом и продолжается
@@ -55,8 +56,8 @@ I've done it (right now)
 // Это привело к тому, что происходит сейчас
 Somebody has eaten all the chocolates, so the box is empty.
 
-// Это началось и продолжается
-I've started learning in middle schoold
+// Это началось и продолжается, результат важен сейчас
+I've started learning in middle school
 							 
 							|--- PRES. PERF. CONTINUOUS --->| 
 							
