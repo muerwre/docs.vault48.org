@@ -54,10 +54,13 @@ I've done it (right now)
 
 // Это привело к тому, что происходит сейчас
 Somebody has eaten all the chocolates, so the box is empty.
+
+// Это началось и продолжается
+I've started learning in middle schoold
 							 
 							|--- PRES. PERF. CONTINUOUS --->| 
 							
-// Это началось когда-то и продолжается
+// Это началось в определённый момент и продолжается вот уже Х времени
 
 I've been doing it since yesterday  (and doing it now)
 He's been like that for 2 years     (and he's still like that)
