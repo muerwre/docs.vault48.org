@@ -1,6 +1,8 @@
-For continous forms ([2. Present Continous](../Tenses/2.%20Present%20Continous.md), [4. Past Continuous](../Tenses/4.%20Past%20Continuous.md), [6. Present Perfect Continuous](../Tenses/6.%20Present%20Perfect%20Continuous.md)) it's just a ==Verb +ing==:	I `(am/was/have been) doing` that.
+### For continous forms ([2. Present Continous](../Tenses/2.%20Present%20Continous.md), [4. Past Continuous](../Tenses/4.%20Past%20Continuous.md), [6. Present Perfect Continuous](../Tenses/6.%20Present%20Perfect%20Continuous.md)) it's just a ==Verb+ing==:	
 
-For [1. Present Simple](../Tenses/1.%20Present%20Simple.md), [3. Past Simple](../Tenses/3.%20Past%20Simple.md), and [5. Present Perfect](../Tenses/5.%20Present%20Perfect.md) it's specific:
+> - I `(am/was/have been) do+ing` that.
+
+### For [1. Present Simple](../Tenses/1.%20Present%20Simple.md), [3. Past Simple](../Tenses/3.%20Past%20Simple.md), and [5. Present Perfect](../Tenses/5.%20Present%20Perfect.md) it's specific:
 
 | **Base** | **Past tense** | **Past particle** |
 | - | - | - |
