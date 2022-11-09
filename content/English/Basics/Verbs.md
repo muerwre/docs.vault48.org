@@ -9,7 +9,7 @@
 | [1. Present Simple](../Tenses/1.%20Present%20Simple.md) | [3. Past Simple](../Tenses/3.%20Past%20Simple.md) | [5. Present Perfect](../Tenses/5.%20Present%20Perfect.md) |
 | I `do` that | I `did` that | I `have done` that |
 | I `go` to school | I `went` to school | I `have gone` to school |
-| I `make` cookies | I `made cookies` | I `have made` cookies |
+| I `make` cookies | I `made` cookies | I `have made` cookies |
 | I `see` him | I `saw` him | I `have seen` him | 
 | I `run` home | I `run` home | I `have run` home |
 | I `know` her | I `knew` it | I `have known` her for ages |
@@ -20,3 +20,7 @@
 | I `come` home every day | I `came` home | I `have come` home |
 | I `cut` ribbons | I `cut` the ribbon | I `have cut` the ribbon |
 | I `give` him scissors | I `gave` him scissor | I `have given` him scissors |
+
+| [1. Present Simple](../Tenses/1.%20Present%20Simple.md) | [3. Past Simple](../Tenses/3.%20Past%20Simple.md) | [5. Present Perfect](../Tenses/5.%20Present%20Perfect.md) |
+|-|-|-|
+| read (ri:d) | read (red) | read (red) |
