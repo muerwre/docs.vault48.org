@@ -1,4 +1,4 @@
-### For continous forms ([2. Present Continous](../Tenses/2.%20Present%20Continous.md), [4. Past Continuous](../Tenses/4.%20Past%20Continuous.md), [6. Present Perfect Continuous](../Tenses/6.%20Present%20Perfect%20Continuous.md)) it's just a ==Verb+ing==:	
+### For continuous forms ([2. Present Continous](../Tenses/2.%20Present%20Continous.md), [4. Past Continuous](../Tenses/4.%20Past%20Continuous.md), [6. Present Perfect Continuous](../Tenses/6.%20Present%20Perfect%20Continuous.md)) it's just a ==Verb+ing==:	
 
 > - I `(am/was/have been) do+ing` that.
 
